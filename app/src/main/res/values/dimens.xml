@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="header_size_normal">250dp</dimen>
+    <dimen name="header_size_large">360dp</dimen>
+</resources>
